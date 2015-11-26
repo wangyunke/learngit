@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        System.out.println("我成功了");
     }
 
     @Override
